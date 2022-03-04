@@ -1,0 +1,5 @@
+name "np_sync"
+description "Sync two hard-disks"
+authors "needleful"
+copyright "Copyright © 2022, needleful"
+license "GPL v3.0"

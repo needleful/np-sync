@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/np_sync
+np_sync.so
+np_sync.dylib
+np_sync.dll
+np_sync.a
+np_sync.lib
+np_sync-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.tsv
